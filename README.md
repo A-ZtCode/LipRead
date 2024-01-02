@@ -4,7 +4,7 @@
 LipRead is a cutting-edge Deep Learning model developed to perform accurate lip reading. The project leverages Python and TensorFlow, demonstrating the potential of neural networks in interpreting visual speech data.
 
 ## Installation
-To get started with LipRead, clone the repository and explore the LipRead.ipynb Jupyter Notebook and install the required dependencies listed in the notebook.
+To get started with LipRead, clone the repository and explore the LipRead.ipynb notebook and install the required dependencies listed in the notebook.
 
 ## Usage
 Refer to `LipRead.ipynb` for detailed implementation and examples. Ensure you have Jupyter Notebook installed to run and interact with the notebook.
